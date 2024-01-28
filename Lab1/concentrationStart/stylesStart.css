@@ -1,0 +1,21 @@
+#board {
+  max-width: 600px;
+}
+
+.card {
+  border: 2px ridge black; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px; 
+  width: 100px; 
+  box-sizing: border-box; 
+  margin: 2px; 
+  
+  
+}
+
+body {
+  background-color: #cbccfd60; 
+  
+}
+

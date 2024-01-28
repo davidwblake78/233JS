@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f4f4; 
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px; 
+  margin: auto;
+}
+
+.square {
+  height: 100px; 
+  border: 2px solid #999;
+  font-size: 2em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.square:hover {
+  background-color: #efefef; 
+}
+
+#status {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.red {
+  color: #ff4136; 
+  background-color: #ffe5e0; 
+}
